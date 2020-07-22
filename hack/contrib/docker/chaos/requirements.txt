@@ -1,5 +1,5 @@
 structlog==17.1.0
-requests==2.1.0
+requests==2.20.0
 urllib3==1.7.1
 docker-py==1.4.0
 httplib2==0.9.2
